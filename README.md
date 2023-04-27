@@ -1,5 +1,9 @@
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
+## Description
+
+This simple back end application provides a framework for an online e-commerce site. Using multiple GET, POST, PUT, and DELETE methods, users can find relevant information about the products, product categories, and product tags seeded into the application, as well as create their own.
+
 ## User Story
 
 ```md
@@ -24,4 +28,6 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
-# behind-the-e-commerce
+## Links
+
+Video Walkthrough: https://drive.google.com/file/d/1eOO49nspsO0tbSbrXe7hfj-0SqBehVOI/view
